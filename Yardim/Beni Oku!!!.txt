@@ -1,0 +1,1 @@
+Yanda bulunan Publisher dosyasını açıp HTML olrak kaydederek yardım dosyasını oluşturabilirsin..
